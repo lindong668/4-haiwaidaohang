@@ -1,0 +1,517 @@
+{
+  "headers": [
+    {
+      "source": "/ads.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/about",
+      "destination": "/about.html",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/disclaimer",
+      "destination": "/disclaimer.html",
+      "permanent": true
+    },
+    {
+      "source": "/google6474e28bb6098302",
+      "destination": "/google6474e28bb6098302.html",
+      "permanent": true
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy.html",
+      "permanent": true
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/about",
+      "destination": "/es/about.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/contact",
+      "destination": "/es/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/disclaimer",
+      "destination": "/es/disclaimer.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/privacy",
+      "destination": "/es/privacy.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/terms",
+      "destination": "/es/terms.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/ai-tools-for-content-creators",
+      "destination": "/es/guides/ai-tools-for-content-creators.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/best-free-background-removers",
+      "destination": "/es/guides/best-free-background-removers.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/compress-images-without-losing-quality",
+      "destination": "/es/guides/compress-images-without-losing-quality.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/developer-tools-that-save-time",
+      "destination": "/es/guides/developer-tools-that-save-time.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/free-photoshop-alternatives",
+      "destination": "/es/guides/free-photoshop-alternatives.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/guides/online-pdf-tools-compared",
+      "destination": "/es/guides/online-pdf-tools-compared.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/base64-encode",
+      "destination": "/es/tools/base64-encode.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/calchub",
+      "destination": "/es/tools/calchub.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/chatpdf",
+      "destination": "/es/tools/chatpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/cloudconvert",
+      "destination": "/es/tools/cloudconvert.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/convert-case",
+      "destination": "/es/tools/convert-case.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/convertio",
+      "destination": "/es/tools/convertio.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/epoch-converter",
+      "destination": "/es/tools/epoch-converter.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/favicon-io",
+      "destination": "/es/tools/favicon-io.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/firefly",
+      "destination": "/es/tools/firefly.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/ilovepdf",
+      "destination": "/es/tools/ilovepdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/jsonlint",
+      "destination": "/es/tools/jsonlint.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/paraphraser",
+      "destination": "/es/tools/paraphraser.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/pdf24",
+      "destination": "/es/tools/pdf24.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/photopea",
+      "destination": "/es/tools/photopea.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/piccalc",
+      "destination": "/es/tools/piccalc.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/regex101",
+      "destination": "/es/tools/regex101.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/remove-bg",
+      "destination": "/es/tools/remove-bg.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/smallpdf",
+      "destination": "/es/tools/smallpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/tinypng",
+      "destination": "/es/tools/tinypng.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/tools/uuid-generator",
+      "destination": "/es/tools/uuid-generator.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/ai-tools-for-content-creators",
+      "destination": "/guides/ai-tools-for-content-creators.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/best-free-background-removers",
+      "destination": "/guides/best-free-background-removers.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/compress-images-without-losing-quality",
+      "destination": "/guides/compress-images-without-losing-quality.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/developer-tools-that-save-time",
+      "destination": "/guides/developer-tools-that-save-time.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/free-photoshop-alternatives",
+      "destination": "/guides/free-photoshop-alternatives.html",
+      "permanent": true
+    },
+    {
+      "source": "/guides/online-pdf-tools-compared",
+      "destination": "/guides/online-pdf-tools-compared.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/about",
+      "destination": "/pt/about.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/contact",
+      "destination": "/pt/contact.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/disclaimer",
+      "destination": "/pt/disclaimer.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/privacy",
+      "destination": "/pt/privacy.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/terms",
+      "destination": "/pt/terms.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/ai-tools-for-content-creators",
+      "destination": "/pt/guides/ai-tools-for-content-creators.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/best-free-background-removers",
+      "destination": "/pt/guides/best-free-background-removers.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/compress-images-without-losing-quality",
+      "destination": "/pt/guides/compress-images-without-losing-quality.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/developer-tools-that-save-time",
+      "destination": "/pt/guides/developer-tools-that-save-time.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/free-photoshop-alternatives",
+      "destination": "/pt/guides/free-photoshop-alternatives.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/guides/online-pdf-tools-compared",
+      "destination": "/pt/guides/online-pdf-tools-compared.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/base64-encode",
+      "destination": "/pt/tools/base64-encode.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/calchub",
+      "destination": "/pt/tools/calchub.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/chatpdf",
+      "destination": "/pt/tools/chatpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/cloudconvert",
+      "destination": "/pt/tools/cloudconvert.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/convert-case",
+      "destination": "/pt/tools/convert-case.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/convertio",
+      "destination": "/pt/tools/convertio.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/epoch-converter",
+      "destination": "/pt/tools/epoch-converter.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/favicon-io",
+      "destination": "/pt/tools/favicon-io.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/firefly",
+      "destination": "/pt/tools/firefly.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/ilovepdf",
+      "destination": "/pt/tools/ilovepdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/jsonlint",
+      "destination": "/pt/tools/jsonlint.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/paraphraser",
+      "destination": "/pt/tools/paraphraser.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/pdf24",
+      "destination": "/pt/tools/pdf24.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/photopea",
+      "destination": "/pt/tools/photopea.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/piccalc",
+      "destination": "/pt/tools/piccalc.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/regex101",
+      "destination": "/pt/tools/regex101.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/remove-bg",
+      "destination": "/pt/tools/remove-bg.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/smallpdf",
+      "destination": "/pt/tools/smallpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/tinypng",
+      "destination": "/pt/tools/tinypng.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt/tools/uuid-generator",
+      "destination": "/pt/tools/uuid-generator.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/base64-encode",
+      "destination": "/tools/base64-encode.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/calchub",
+      "destination": "/tools/calchub.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/chatpdf",
+      "destination": "/tools/chatpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/cloudconvert",
+      "destination": "/tools/cloudconvert.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/convert-case",
+      "destination": "/tools/convert-case.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/convertio",
+      "destination": "/tools/convertio.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/epoch-converter",
+      "destination": "/tools/epoch-converter.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/favicon-io",
+      "destination": "/tools/favicon-io.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/firefly",
+      "destination": "/tools/firefly.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/ilovepdf",
+      "destination": "/tools/ilovepdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/jsonlint",
+      "destination": "/tools/jsonlint.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/paraphraser",
+      "destination": "/tools/paraphraser.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/pdf24",
+      "destination": "/tools/pdf24.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/photopea",
+      "destination": "/tools/photopea.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/piccalc",
+      "destination": "/tools/piccalc.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/regex101",
+      "destination": "/tools/regex101.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/remove-bg",
+      "destination": "/tools/remove-bg.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/smallpdf",
+      "destination": "/tools/smallpdf.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/tinypng",
+      "destination": "/tools/tinypng.html",
+      "permanent": true
+    },
+    {
+      "source": "/tools/uuid-generator",
+      "destination": "/tools/uuid-generator.html",
+      "permanent": true
+    },
+    {
+      "source": "/es",
+      "destination": "/es/index.html",
+      "permanent": true
+    },
+    {
+      "source": "/pt",
+      "destination": "/pt/index.html",
+      "permanent": true
+    }
+  ]
+}
